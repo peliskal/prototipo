@@ -1,0 +1,72 @@
+*{
+	padding: 0; margin: 0;
+}
+body{
+	background: rgb(0, 0, 0);
+}
+
+.menu{
+	width: 100%; height: 190px;
+	background:grey;
+	margin-bottom: 100px;
+	margin-top: 0px;
+
+}
+.menu a{
+	text-decoration: none;
+	font-size:30px;
+	color:rgb(250, 250, 250);
+}
+
+.menu a > li{
+border: 5px solid;
+display:inline-block;
+width: 100px; height: 40px;
+text-align: center;
+margin: 10px;
+}
+
+.menu ol{
+	background: grey;
+	position: fixed;
+	text-align: center;
+	margin-top: 0px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	width: 100%;
+}
+
+
+.libros{
+	margin: auto; text-align: center;
+	width: 90%; height: auto;
+	background: rgb(50, 100, 200);
+}
+
+
+
+.portada{
+	display: inline-block;
+	margin: 10px;
+	width: 200px;
+	height: 300px;
+	background: yellow;
+}
+
+
+footer{
+	margin-top: 100px;
+	background: green;
+	width: 100%; height: 300px;
+
+}
+
+
+
+
+
+
+
+
+
+
